@@ -1,4 +1,7 @@
-- 👋 Hi, I’m Gagan.
-- 🌱 I’m currently learning Python.
-- You can find my projects here that I have worked on. I have added my codes (mostly in Embedded C). Dependencies (libraries) for my codes are not added with the project.
-- Reach out to me at: lucifer14.gb@gmail.com
+👋 Hi, I am Gagan Batra. I am a graduate student at University of Cincinnati. 
+
+Feel free to read and comment on my github site!
+
+Contact me
+Email: batraga@mail.uc.edu
+LinkedIn: in/batra-gagan
