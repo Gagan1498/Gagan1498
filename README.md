@@ -3,4 +3,4 @@
 
 Contact me at:
 -  Email: batraga@mail.uc.edu
--  LinkedIn: in/batra-gagan
+-  LinkedIn: https://www.linkedin.com/in/batra-gagan/
